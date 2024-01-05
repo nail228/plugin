@@ -1,0 +1,13 @@
+{
+  "name": "Deadline plugin",
+  "description": "notice about all your deadlines",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {},
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting","webRequest"],
+  "background":{}
+
+}

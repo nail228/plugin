@@ -1,0 +1,45 @@
+.plugin-container{
+    display:flex;
+    width:100%;
+    flex-direction: column;
+    align-items: center;
+
+}
+.plugin-header{
+    margin-bottom: 3px;
+    width: 100%;
+    position: relative;
+    top:0;
+
+}
+.plugin-menu{
+    display:flex;
+    border-radius: 15px;
+    background:blue;
+
+}
+.auth-img{
+    height: 25px;
+    width: 25px;
+    padding: 10px 10px;
+}
+#deadlinesBtn{
+    height: 25px;
+    width: 25px;
+    padding: 10px 10px;
+
+}
+#infoBtn{
+    height: 25px;
+    width: 25px;
+    padding: 10px 10px;
+
+}
+.intro{
+    font-size: 10pt;
+}
+h1{
+    font-size: 14pt;
+    text-align: center;
+    padding: 10px;
+}

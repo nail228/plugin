@@ -1,0 +1,18 @@
+.auth-form{
+    display:flex;
+    flex-direction: column;
+}
+#emailInput{
+    border-radius: 10px;
+
+}
+#passwordInput{
+    border-radius: 10px;
+}
+#bTn{
+    background: #003366;
+    color: #ffffff;
+    border-radius: 10px;
+    margin:0 10px;
+    padding-top: 5px;
+}
